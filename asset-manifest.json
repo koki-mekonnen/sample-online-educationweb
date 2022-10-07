@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/koki-mekonnen/sample-online-educationweb/static/css/main.c44bf441.css",
+    "main.js": "/koki-mekonnen/sample-online-educationweb/static/js/main.b10f83c3.js",
+    "static/js/787.03ade557.chunk.js": "/koki-mekonnen/sample-online-educationweb/static/js/787.03ade557.chunk.js",
+    "static/media/team4.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/team4.635e3b575d157949ff1a.jpg",
+    "static/media/aboutbacke.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/aboutbacke.875ab39e06a7836306e8.jpg",
+    "static/media/conback.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/conback.cf4feb6d6d857b1de12d.jpg",
+    "static/media/lib.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/lib.ce987fb8102a8b8adf54.jpg",
+    "static/media/girly.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/girly.65c3058eabff49af07d4.jpg",
+    "static/media/team2.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/team2.c5d8c4efb2295c5f2ba3.jpg",
+    "static/media/team6.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/team6.e71c11bdae3c49e53379.jpg",
+    "static/media/team3.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/team3.74e10b1598a989772f8c.jpg",
+    "static/media/ab.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/ab.d14700c7650a64a5e7c7.jpg",
+    "static/media/man.png": "/koki-mekonnen/sample-online-educationweb/static/media/man.b935fcb0dc17c7cfd941.png",
+    "static/media/team1.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/team1.dd195c9b1440bf85fe19.jpg",
+    "static/media/lap.png": "/koki-mekonnen/sample-online-educationweb/static/media/lap.8f3c98d30cce79078adf.png",
+    "static/media/team5.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/team5.a7052cf6d69207519f1e.jpg",
+    "static/media/op.jpg": "/koki-mekonnen/sample-online-educationweb/static/media/op.b17b0d515e1cdfa64512.jpg",
+    "static/media/book.png": "/koki-mekonnen/sample-online-educationweb/static/media/book.33407230cac27323ff60.png",
+    "static/media/certficat.png": "/koki-mekonnen/sample-online-educationweb/static/media/certficat.f0501caec422882b1dcd.png",
+    "index.html": "/koki-mekonnen/sample-online-educationweb/index.html",
+    "main.c44bf441.css.map": "/koki-mekonnen/sample-online-educationweb/static/css/main.c44bf441.css.map",
+    "main.b10f83c3.js.map": "/koki-mekonnen/sample-online-educationweb/static/js/main.b10f83c3.js.map",
+    "787.03ade557.chunk.js.map": "/koki-mekonnen/sample-online-educationweb/static/js/787.03ade557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44bf441.css",
+    "static/js/main.b10f83c3.js"
+  ]
+}
